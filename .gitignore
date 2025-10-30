@@ -1,3 +1,20 @@
+# Папки с моделями
+rut5-base/
+
+# Папки с аудио-данными
+data/output_mp3/
+data/output_mp3_2/
+
+# Сгенерированные CSV файлы в корне проекта
+*.csv
+
+# Стандартные файлы Python и IDE
+__pycache__/
+.idea/
+venv/```
+
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
